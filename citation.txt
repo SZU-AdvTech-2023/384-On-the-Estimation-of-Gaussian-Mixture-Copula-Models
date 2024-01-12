@@ -1,0 +1,7 @@
+@inproceedings{REPO384,
+    author = "Tewari, Ashutosh",
+    booktitle = "International Conference on Machine Learning",
+    pages = "34090--34104",
+    title = "{On the Estimation of Gaussian Mixture Copula Models}",
+    year = "2023"
+}
